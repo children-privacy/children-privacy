@@ -1,0 +1,5 @@
+com.AppleCoffee.BuildCity	Family_NewFree_15Feb2021_192	Everyone 10+, General, PEGI 7, PEGI 7, USK: All ages
+com.appsphinx.basicphysics	Family_NewFree_15Feb2021_192	Everyone, Rated for 3+, PEGI 3, PEGI 3, USK: All ages
+com.arcsys.whack.a.bunny.tap.tap.hole.puzzle	Family_NewFree_15Feb2021_192	Everyone, General, PEGI 3, PEGI 3, USK: All ages
+com.ASCESA.KNUMEROS	Family_NewFree_15Feb2021_192	Everyone, Parental Guidance, PEGI 7, PEGI 7, USK: All ages
+com.beansprites.drawinggameskids	Family_NewFree_15Feb2021_192	Everyone, General, PEGI 3, PEGI 3, USK: All ages/n

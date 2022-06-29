@@ -1,0 +1,18 @@
+.git/
+.github/
+.idea/
+docs/
+test/
+
+**/*.pyc
+**/__pycache__
+
+.gitignore
+.gitattributes
+pyproject.toml
+.coveragerc
+.codecov.yml
+
+# Private files
+private_*
+Downloads/

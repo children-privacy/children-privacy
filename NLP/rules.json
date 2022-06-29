@@ -1,0 +1,166 @@
+[
+    {
+        "item": "racist",
+        "category": 0,
+        "index": 1,
+        "dist": 0,
+        "word_1": ["racist"],
+        "word_2": []
+    },
+    {
+        "item": "sexual content",
+        "category": 0,
+        "index": 2,
+        "dist": 0,
+        "word_1": ["nude", "pedophil", "masturbat", " porn", "pornographic", "sexual", "pervert", "pedophile", "horny", "penis", "dick", "sex"],
+        "word_2": []
+    },
+    {
+        "item": "violent content",
+        "category": 0,
+        "index": 3,
+        "dist": 0,
+        "word_1": ["blood", "violence", "violent", "criminal", "scare", "scaring", "creep"],
+        "word_2": []
+    },
+    {
+        "item": "kids related",
+        "category": 0,
+        "index": 4,
+        "dist": 8,
+        "word_1": ["kid","child","children","son","daughter"],
+        "word_2": ["not", "improper", "bad", "harm", "harmful", "worst"]
+    },
+    {
+        "item": "tobacco and drug",
+        "category": 0,
+        "index": 5,
+        "dist": 0,
+        "word_1": ["tobacco", "drug"],
+        "word_2": [] 
+    },
+    {
+        "item": "bad language",
+        "category": 0,
+        "index": 6,
+        "dist": 5,
+        "word_1": ["bad", "improper"],
+        "word_2": ["language"]
+    },
+
+
+
+
+    {
+        "item": "disrupt ads",
+        "category": 1,
+        "index": 7,
+        "dist": 5,
+        "word_1": ["disrupt", "menu", "bar", "notification", "launch"],
+        "word_2": ["ads", "advertisement"]
+    },
+    {
+        "item": "redirect ads",
+        "category": 1,
+        "index": 8,
+        "dist": 7,
+        "word_1": ["redirect", "redorection"],
+        "word_2": ["ads", "advertisement"]
+    },
+    {
+        "item": "ads",
+        "category": 1,
+        "index": 9,
+        "dist": 7,
+        "word_1": ["too", "many", "plenty", "full"],
+        "word_2": ["ads", "advertisement"]
+    },
+    {
+        "item": "drive-by download",
+        "category": 1,
+        "index": 10,
+        "dist": 4,
+        "word_1": ["download","install"],
+        "word_2": ["itself","force","induce","plug-in"]
+    },
+
+
+
+
+    {
+        "item": "privacy leak",
+        "category": 2,
+        "index": 11,
+        "dist": 2,
+        "word_1": ["steal"],
+        "word_2": ["information"]
+    },
+    {
+        "item": "privacy leak",
+        "category": 2,
+        "index": 12,
+        "dist": 7,
+        "word_1": ["steal","miss","lost"],
+        "word_2": ["info","information","data","file","backup"]
+    },
+    {
+        "item": "permission abuse",
+        "category": 2,
+        "index": 13,
+        "dist": 7,
+        "word_1": ["permission"],
+        "word_2": ["unnecessary","require","ask","need","want","give"]
+    },
+    {
+        "item": "data sharing",
+        "category": 2,
+        "index": 14,
+        "dist": 7,
+        "word_1": ["share", "sharing", "spread", "release", "leak"],
+        "word_2": ["user", "users", "information", "privacy", "private", "sensitive"]
+    },
+    
+
+
+    
+    {
+        "item": "virus",
+        "category": 3,
+        "index": 15,
+        "dist": 0,
+        "word_1": ["virus", "trojan", "malware"],
+        "word_2": []
+    },
+    {
+        "item": "browser",
+        "category": 3,
+        "index": 16,
+        "dist": 2,
+        "word_1": ["modify","hijack"], 
+        "word_2": ["browser"]
+    },
+    {
+        "item": "payment",
+        "category": 3,
+        "index": 17,
+        "dist": -1,
+        "word_1": ["cheat","deceive","fraud"], 
+        "word_2": ["bill","money","$","payment"]
+    },
+    {
+        "item": "network traffic",
+        "category": 3,
+        "index": 18,
+        "dist": 3,
+        "word_1": ["consume"],
+        "word_2": ["traffic","network"]
+    },
+    {
+        "item": "background",
+        "category": 3,
+        "index": 19,
+        "dist": 7,
+        "word_1": ["alwalys","background","itself"],
+        "word_2": ["sms","download"]
+    }
+]

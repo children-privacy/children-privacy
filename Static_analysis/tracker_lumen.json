@@ -1,0 +1,146 @@
+[
+    {
+        "name": "AppNexus",
+        "code_signature": "",
+        "network_signature": "adnxs.com",
+        "website": ""
+    },
+    {
+        "name": "Integral Ad Science",
+        "code_signature": "",
+        "network_signature": "adsafeprotected.com",
+        "website": ""
+    },
+    {
+        "name": "Atlas Solutions",
+        "code_signature": "",
+        "network_signature": "atdmt.com",
+        "website": ""
+    },
+    {
+        "name": "Casale Media",
+        "code_signature": "",
+        "network_signature": "casalemedia.com",
+        "website": ""
+    },
+    {
+        "name": "Google Double Click",
+        "code_signature": "",
+        "network_signature": "doulbeclick.net",
+        "website": ""
+    },
+    {
+        "name": "Google AdServices",
+        "code_signature": "",
+        "network_signature": "googleadservices.com",
+        "website": ""
+    },
+    {
+        "name": "Google Syndication",
+        "code_signature": "",
+        "network_signature": "googlesyndication.com",
+        "website": ""
+    },
+    {
+        "name": "Adobe Dynamic Tag Management",
+        "code_signature": "",
+        "network_signature": "adobedtm.com",
+        "website": ""
+    },
+    {
+        "name": "Microsoft Azure",
+        "code_signature": "",
+        "network_signature": "azurewebsites.net",
+        "website": ""
+    },
+    {
+        "name": "ipapi",
+        "code_signature": "",
+        "network_signature": "ip-api.com",
+        "website": ""
+    },
+    {
+        "name": "Liftoff",
+        "code_signature": "",
+        "network_signature": "liftoff.io",
+        "website": ""
+    },
+    {
+        "name": "LocusLabs",
+        "code_signature": "",
+        "network_signature": "locuslabs.com",
+        "website": ""
+    },
+    {
+        "name": "Amazon Advertising",
+        "code_signature": "",
+        "network_signature": "amazon-adsystem.com",
+        "website": ""
+    },
+    {
+        "name": "SpotX",
+        "code_signature": "",
+        "network_signature": "spotxchange.com",
+        "website": ""
+    },
+    {
+        "name": "StickyADS",
+        "code_signature": "",
+        "network_signature": "stickyadstv.com",
+        "website": ""
+    },
+    {
+        "name": "Tremor Video",
+        "code_signature": "",
+        "network_signature": "tremorhub.com",
+        "website": ""
+    },
+    {
+        "name": "DoubleVerify",
+        "code_signature": "",
+        "network_signature": "doubleverify.com",
+        "website": ""
+    },
+    {
+        "name": "AdsMoloco",
+        "code_signature": "",
+        "network_signature": "adsmoloco.com",
+        "website": ""
+    },
+    {
+        "name": "Google GVT1",
+        "code_signature": "",
+        "network_signature": "gvt1.com",
+        "website": ""
+    },
+    {
+        "name": "Firebase",
+        "code_signature": "",
+        "network_signature": "firebaseio.com",
+        "website": ""
+    },
+    {
+        "name": "Google Analytics for Firebase",
+        "code_signature": "",
+        "network_signature": "app-measurement.com",
+        "website": ""
+    },
+    {
+        "name": "KsMobile",
+        "code_signature": "",
+        "network_signature": "ksmobile.com|ksmobile.net",
+        "website": ""
+    },
+    {
+        "name": "OpenSpeech",
+        "code_signature": "",
+        "network_signature": "openspeech.cn",
+        "website": ""
+    },
+    {
+        "name": "ChartBeat",
+        "code_signature": "",
+        "network_signature": "charbeat.net",
+        "website": ""
+    }
+]
